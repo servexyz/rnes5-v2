@@ -2594,3 +2594,17 @@ patch:
         patched: '2019-07-12T18:32:57.351Z'
     - react-native > @react-native-community/cli > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2019-07-12T18:32:57.351Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-12T18:37:11.933Z'
